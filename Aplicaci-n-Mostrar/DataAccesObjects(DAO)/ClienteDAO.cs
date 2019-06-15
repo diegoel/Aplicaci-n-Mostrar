@@ -1,11 +1,7 @@
-﻿using System;
+﻿using Aplicaci_n_Mostrar.DataTransferObjects_DTO_;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
-using Aplicaci_n_Mostrar.DataTransferObjects_DTO_;
 
 namespace Aplicaci_n_Mostrar.DataAccesObjects_DAO_
 {

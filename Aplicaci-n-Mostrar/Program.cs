@@ -1,8 +1,5 @@
 ﻿using Aplicaci_n_Mostrar.User_Interfaces_UI_;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Aplicaci_n_Mostrar
